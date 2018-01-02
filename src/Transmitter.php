@@ -15,7 +15,7 @@ namespace Genial\Logger;
 /**
  * Transmitter.
  */
-class Transmitter extends Connector
+class Transmitter extends File\Connector
 {
   
     /**
