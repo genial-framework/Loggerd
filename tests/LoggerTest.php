@@ -30,7 +30,7 @@ final class LoggerTest extends TestCase
     public function test__invoke()
     {
         $logger = new Logger;
-        $this->assertTrue($logger);
+        $this->assertTrue($logger());
     }
   
     /**
