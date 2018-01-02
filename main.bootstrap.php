@@ -15,4 +15,4 @@ define('LOGGER_DEPENDENT_ACTIVE', true);
 use Genial\Logger\Logger;
 
 $logger = new Logger;
-$logger(true);
+$logger(env('application', 'log', true));
