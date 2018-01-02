@@ -13,6 +13,9 @@
 define('LOGGER_DEPENDENT_ACTIVE', true);
 
 use Genial\Logger\Logger;
+use Genial\Logger\Transmitter;
 
 $logger = new Logger;
 $logger(true);
+
+Transmitter::initialize($logger);
