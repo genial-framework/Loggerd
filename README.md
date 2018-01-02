@@ -1,4 +1,4 @@
-[![Travis](https://img.shields.io/travis/Genial-Framework/Logger.svg?style=flat-square)](https://travis-ci.org/Genial-Framework/Logger) [![Coveralls github branch](https://img.shields.io/coveralls/github/Genial-Framework/Logger/master.svg?style=flat-square)](https://coveralls.io/github/Genial-Framework/Logger?branch=master)
+[![Travis](https://img.shields.io/travis/Genial-Framework/Logger.svg?style=flat)](https://travis-ci.org/Genial-Framework/Logger) [![Coveralls github branch](https://img.shields.io/coveralls/github/Genial-Framework/Logger/master.svg?style=flat)](https://coveralls.io/github/Genial-Framework/Logger?branch=master)
 
 -------
 Logging dependent for Genial Framework.
