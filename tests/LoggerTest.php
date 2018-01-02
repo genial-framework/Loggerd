@@ -19,6 +19,7 @@ use PHPUnit\Framework\TestCase;
  */
 final class LoggerTest extends TestCase
 {
+    
     /**
      * test__invoke().
      *
